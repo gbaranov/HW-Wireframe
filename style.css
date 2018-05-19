@@ -1,0 +1,94 @@
+html {}
+body {
+
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777;
+  background: #777;
+  width: 100%;
+  font-size: 18px;
+
+}
+header, nav, section, aside, footer {
+  background: #ebebeb;
+}
+
+header{
+  width: 1300px;
+  height: 120px;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  box-sizing: border-box;
+  padding: 50px 600px 40px 600px;
+}
+
+nav{
+  width: 1300px;
+  height: 120px;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  padding: 50px 600px 40px 600px;
+  box-sizing: border-box;
+}
+section{
+  width: 730px;
+  height: 400px;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  float: left;
+}
+
+aside{
+  width: 550px;
+  height: 400px;
+  margin-left: 20px;
+  margin-bottom: 1%;
+  float: left;
+  padding: 180px 240px 40px 250px;
+  box-sizing: border-box;
+}
+
+article{
+  color: #ebebeb;
+  background: #777;
+  width: 640px;
+  height: 270px;
+  margin: 100px 45px 20px 45px;
+  float: left;
+  padding: 60px 0px 0px 280px;
+  box-sizing: border-box;
+}
+h1{
+  position: absolute;
+  color: #777;
+  background: #ebebeb;
+  width: 580px;
+  height: 70px;
+  margin: 85px 20px 0px 30px;
+  padding: 20px 20px 0px 240px;
+  left: 220px;
+  top: 400px;
+  box-sizing: border-box;
+}
+p{
+  position: absolute;
+  color: #777;
+  background: #ebebeb;
+  width: 580px;
+  height: 70px;
+  margin: 0px 20px 0px 30px;
+  padding: 20px 20px 0px 270px;
+  box-sizing: border-box;
+  left: 220px;
+  top: 560px;
+}
+h2{}
+h3{}
+footer{
+  width: 1300px;
+  height: 120px;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  float: left;
+  padding: 50px 600px 40px 600px;
+  box-sizing: border-box;
+}
